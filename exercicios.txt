@@ -1,0 +1,19 @@
+1. Crie um pequeno site com 5 páginas para um professor particular (Prof Ajax) que
+ministra aulas de programação de 4 linguagens (Python, Java, C# e R), onde:
+Na página index (inicial) insira o nome do profissional em uma imagem no topo e
+algumas imagens com legendas sobre as aulas que ele oferece na região principal
+do site (faça isso para cada linguagem), na região de navegação insira cinco links
+(HOME | Músicas para programação | Aulas grátis| Planos | Contato). OBS: crie as
+imagens para o site ou aproveite ideias da web.
+2. Na página Música para programação, insira pelo menos 3 músicas que você escuta
+quando estuda, com a letra e logo após o arquivo de áudio para reprodução, se não
+tiver letra, insira ao menos o áudio (pode converter do YouTube, pesquise conversores
+online ;).
+3. Na página Aula grátis, insira 1 vídeo de cada linguagem (YouTube). Cada vídeo deve
+demonstrar um Olá Mundo em cada uma das linguagens que o professor trabalha.
+(Pesquise no YouTube).
+4. Na página Planos, insira 5 tipos de pacotes (Grátis, Mensal, Trimestral, Semestral,
+Anual), procure ideia em sites na web.
+5. Na página Contato, crie um formulário para que seja possíveis os alunos entrarem em
+contato com o professor.
+6. Você terá que pesquisar as informações do site na web e usar sua criatividade.
